@@ -1,0 +1,15 @@
+# 原始 APK（体积大，不应上传）
+*.apk
+
+# 临时/调试文件
+*.log
+*.pcap
+*.xz
+tmp/
+temp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
